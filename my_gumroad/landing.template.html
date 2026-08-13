@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Red Signal: The Illusion of Truth</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<style>
+  :root {
+    --accent: #e63946;
+    --accent2: #457b9d;
+    --bg: #0a0a0f;
+    --surface: #13131a;
+    --text: #f1faee;
+    --muted: #a8b2c1;
+  }
+  @media (prefers-color-scheme: light) {
+    :root {
+      --bg: #f1faee;
+      --surface: #ffffff;
+      --text: #0a0a0f;
+      --muted: #4a5568;
+    }
+  }
+  :root[data-theme="light"] {
+    --bg: #f1faee;
+    --surface: #ffffff;
+    --text: #0a0a0f;
+    --muted: #4a5568;
+  }
+  :root[data-theme="dark"] {
+    --bg: #0a0a0f;
+    --surface: #13131a;
+    --text: #f1faee;
+    --muted: #a8b2c1;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    min-height: 100vh;
+    transition: background 0.3s, color 0.3s;
+  }
+  .container { position: relative; z-index: 1; }
+
+  /* Hero */
+  .hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    padding: 2rem 1rem;
+  }
+  .hero-bg {
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at 60% 50%, rgba(230,57,70,0.15) 0%, transparent 60%),
+                radial-gradient(ellipse at 20% 80%, rgba(69,123,157,0.12) 0%, transparent 50%),
+                var(--bg);
+  }
+  .scanline {
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(
+      0deg, transparent, transparent 2px,
+      rgba(0,0,0,0.03) 2px, rgba(0,0,0,0.03) 4px
+    );
+    pointer-events: none;
+  }
+  .hero-inner {
+    position: relative;
+    z-index: 1;
+    max-width: 1100px;
+    width: 100%;
+    display: flex;
+    gap: 4rem;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  /* Book cover */
+  .book-wrap { flex-shrink: 0; position: relative; }
+  .book-cover {
+    width: 260px;
+    border-radius: 4px 12px 12px 4px;
+    box-shadow:
+      -6px 6px 0 rgba(230,57,70,0.6),
+      0 30px 80px rgba(0,0,0,0.7),
+      0 0 60px rgba(230,57,70,0.2);
+    display: block;
+    animation: floatBook 4s ease-in-out infinite;
+  }
+  @keyframes floatBook {
+    0%, 100% { transform: translateY(0) rotate(-1deg); }
+    50% { transform: translateY(-12px) rotate(1deg); }
+  }
+  .book-spine {
+    position: absolute;
+    left: -6px; top: 0;
+    width: 6px; height: 100%;
+    background: linear-gradient(180deg, #b01020, #8b0d1a);
+    border-radius: 4px 0 0 4px;
+  }
+  .redline {
+    position: absolute;
+    top: -20px; left: -40px;
+    width: 3px; height: 120%;
+    background: linear-gradient(180deg, transparent, var(--accent), transparent);
+    opacity: 0.6;
+    animation: pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 0.3; }
+    50% { opacity: 0.8; }
+  }
+
+  /* Hero text */
+  .hero-text { flex: 1; min-width: 280px; max-width: 520px; }
+  .eyebrow {
+    font-size: 0.7rem;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 1rem;
+    font-weight: 600;
+  }
+  h1 {
+    font-size: clamp(2.2rem, 5vw, 3.6rem);
+    font-weight: 900;
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    margin-bottom: 0.5rem;
+  }
+  .subtitle {
+    font-size: 1rem;
+    color: var(--muted);
+    margin-bottom: 1.8rem;
+    font-style: italic;
+    line-height: 1.6;
+  }
+  .price-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    background: rgba(230,57,70,0.12);
+    border: 1px solid rgba(230,57,70,0.3);
+    border-radius: 100px;
+    padding: 0.4rem 1rem 0.4rem 0.5rem;
+    margin-bottom: 1.5rem;
+  }
+  .price-badge .price {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: var(--accent);
+  }
+  .price-badge .formats {
+    font-size: 0.75rem;
+    color: var(--muted);
+    line-height: 1.3;
+  }
+  .cta-group { display: flex; flex-direction: column; gap: 0.75rem; }
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.6rem;
+    background: var(--accent);
+    color: #fff;
+    font-weight: 700;
+    font-size: 1.05rem;
+    padding: 0.9rem 2rem;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    letter-spacing: 0.02em;
+    transition: transform 0.15s, box-shadow 0.15s, background 0.15s;
+    box-shadow: 0 4px 20px rgba(230,57,70,0.4);
+    position: relative;
+    overflow: hidden;
+  }
+  .btn-primary::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, rgba(255,255,255,0.15) 0%, transparent 60%);
+    pointer-events: none;
+  }
+  .btn-primary:hover {
+    background: #c0303d;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 30px rgba(230,57,70,0.5);
+  }
+  .btn-primary:active { transform: translateY(0); }
+  .trust-line {
+    font-size: 0.78rem;
+    color: var(--muted);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  /* Sections */
+  section { padding: 5rem 1rem; }
+  .section-inner { max-width: 900px; margin: 0 auto; }
+  .section-label {
+    font-size: 0.65rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--accent);
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+  }
+  h2 {
+    font-size: clamp(1.6rem, 3.5vw, 2.4rem);
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+    margin-bottom: 1.5rem;
+  }
+
+  /* Synopsis */
+  .synopsis-text {
+    font-size: 1rem;
+    line-height: 1.8;
+    color: var(--muted);
+  }
+  .synopsis-text strong { color: var(--text); }
+  .hook-box {
+    background: var(--surface);
+    border-left: 3px solid var(--accent);
+    padding: 1.5rem;
+    border-radius: 0 8px 8px 0;
+    margin: 2rem 0;
+    font-size: 1.05rem;
+    font-style: italic;
+    line-height: 1.7;
+    color: var(--text);
+  }
+
+  /* Features */
+  .features-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  .feature-card {
+    background: var(--surface);
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 12px;
+    padding: 1.5rem;
+    transition: transform 0.2s, border-color 0.2s;
+  }
+  .feature-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(230,57,70,0.3);
+  }
+  .feature-icon { font-size: 1.8rem; margin-bottom: 0.75rem; }
+  .feature-title { font-weight: 700; margin-bottom: 0.4rem; font-size: 0.95rem; }
+  .feature-desc { font-size: 0.83rem; color: var(--muted); line-height: 1.6; }
+
+  /* Review */
+  .review-box {
+    background: var(--surface);
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 16px;
+    padding: 2.5rem;
+    text-align: center;
+    max-width: 620px;
+    margin: 0 auto;
+  }
+  .stars { color: #f4c430; font-size: 1.4rem; margin-bottom: 1rem; letter-spacing: 0.1em; }
+  .review-text { font-size: 1.15rem; font-style: italic; line-height: 1.7; margin-bottom: 1rem; color: var(--text); }
+  .review-attr { font-size: 0.8rem; color: var(--muted); }
+
+  /* CTA section */
+  .cta-section {
+    text-align: center;
+    padding: 6rem 1rem;
+    position: relative;
+    overflow: hidden;
+  }
+  .cta-section::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at 50% 50%, rgba(230,57,70,0.1) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .cta-section h2 { margin-bottom: 1rem; }
+  .cta-section p { color: var(--muted); margin-bottom: 2rem; font-size: 1.05rem; }
+  .cta-buttons { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+
+  .divider {
+    border: none;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(230,57,70,0.3), transparent);
+    margin: 0 auto;
+    max-width: 600px;
+  }
+
+  /* Glitch */
+  @keyframes glitch {
+    0%  { clip-path: inset(0 0 95% 0); transform: translate(-2px, 0); }
+    20% { clip-path: inset(30% 0 50% 0); transform: translate(2px, 0); }
+    40% { clip-path: inset(60% 0 20% 0); transform: translate(-1px, 0); }
+    60% { clip-path: inset(80% 0 5% 0); transform: translate(1px, 0); }
+    80% { clip-path: inset(10% 0 75% 0); transform: translate(-2px, 0); }
+    100%{ clip-path: inset(0 0 95% 0); transform: translate(0, 0); }
+  }
+  .glitch-wrap { position: relative; display: inline-block; }
+  .glitch-wrap::before,
+  .glitch-wrap::after {
+    content: attr(data-text);
+    position: absolute;
+    inset: 0;
+    font-weight: inherit;
+    font-size: inherit;
+  }
+  .glitch-wrap::before {
+    left: 2px;
+    animation: glitch 4s infinite linear;
+    opacity: 0.5;
+    color: #e63946;
+  }
+  .glitch-wrap::after {
+    left: -2px;
+    animation: glitch 4s 2s infinite linear;
+    opacity: 0.3;
+    color: #457b9d;
+  }
+
+  /* Scroll reveal */
+  .reveal {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+  .reveal.visible { opacity: 1; transform: none; }
+
+  footer {
+    padding: 2rem 1rem;
+    text-align: center;
+    font-size: 0.78rem;
+    color: var(--muted);
+    border-top: 1px solid rgba(255,255,255,0.05);
+  }
+</style>
+</head>
+<body>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-bg"></div>
+  <div class="scanline"></div>
+  <div class="hero-inner container">
+    <div class="book-wrap">
+      <div class="book-spine"></div>
+      <div class="redline"></div>
+      <img class="book-cover" src="{{ASSET:cover.jpg}}" alt="Red Signal: The Illusion of Truth — Book Cover" width="260" />
+    </div>
+    <div class="hero-text">
+      <p class="eyebrow">&#x25cf; Psychological Sci-Fi Thriller</p>
+      <h1>
+        <span class="glitch-wrap" data-text="Red Signal">Red Signal</span><br/>
+        <span style="font-size:0.55em;font-weight:400;color:var(--muted);letter-spacing:0.05em;">The Illusion of Truth</span>
+      </h1>
+      <p class="subtitle">She thought she escaped. She was programmed to think that.</p>
+
+      <div class="price-badge">
+        <span class="price" data-gumroad-field="price">$3.99</span>
+        <span class="formats">PDF &bull; ePub &bull; MOBI<br/>DRM-free &bull; Instant download</span>
+      </div>
+
+      <div class="cta-group">
+        <a data-gumroad-action="buy" class="btn-primary">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
+          Get the Book &mdash; $3.99
+        </a>
+        <p class="trust-line">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+          Secure checkout via Gumroad &bull; Read on any device
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr class="divider" />
+
+<!-- SYNOPSIS -->
+<section>
+  <div class="section-inner container reveal">
+    <p class="section-label">The Story</p>
+    <h2>Everything she believed was a program.</h2>
+    <p class="synopsis-text">
+      <strong>Lyra Vex</strong> remembers smoke, pain, and the sterile white rooms where they rewired her soul.
+      She escaped &mdash; or so she believed &mdash; and found purpose with the Rebellion.
+      Their mission: infiltrate the Order, expose Council crimes, bring justice to both sides.
+    </p>
+    <div class="hook-box">
+      &ldquo;But the Rebellion was a lie. Every memory she cherishes, every face she trusted,
+      every cause she fought for &mdash; all of it was programmed. Lyra isn&rsquo;t a rebel. She&rsquo;s a weapon.&rdquo;
+    </div>
+    <p class="synopsis-text">
+      Now, hunted by both the Council and the Order, Lyra must unravel the truth buried beneath layers
+      of conditioning. With the mysterious voice of <strong>&ldquo;Ion&rdquo;</strong> whispering in her skull and
+      a failsafe timer counting down, she faces an impossible choice:
+      <em style="color:var(--accent);"> Return to her creators as the perfect weapon &mdash; or become something they never programmed her to be: free.</em>
+    </p>
+  </div>
+</section>
+
+<hr class="divider" />
+
+<!-- WHAT YOU GET -->
+<section style="background: var(--surface);">
+  <div class="section-inner container reveal">
+    <p class="section-label">What&rsquo;s Included</p>
+    <h2>Everything you need, nothing you don&rsquo;t.</h2>
+    <div class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon">&#x1F4C4;</div>
+        <div class="feature-title">PDF Format</div>
+        <div class="feature-desc">Crisp layout optimised for desktop reading. Perfect for any screen or printer.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">&#x1F4F1;</div>
+        <div class="feature-title">ePub Format</div>
+        <div class="feature-desc">Reflowable text for Kindle, Kobo, Apple Books, and every major e-reader.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">&#x1F4DA;</div>
+        <div class="feature-title">MOBI Format</div>
+        <div class="feature-desc">Native Kindle compatibility &mdash; sideload directly to your device.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">&#x26A1;</div>
+        <div class="feature-title">Instant Download</div>
+        <div class="feature-desc">All three files delivered the moment payment is confirmed. No waiting.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">&#x1F513;</div>
+        <div class="feature-title">DRM-Free</div>
+        <div class="feature-desc">No lock-in. Read on any device, any app, any time &mdash; forever yours.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">&#x1F512;</div>
+        <div class="feature-title">Secure Checkout</div>
+        <div class="feature-desc">Powered by Gumroad &mdash; trusted by millions of creators worldwide.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<hr class="divider" />
+
+<!-- REVIEW -->
+<section>
+  <div class="section-inner container reveal">
+    <p class="section-label" style="text-align:center">Reader Verdict</p>
+    <div class="review-box">
+      <div class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+      <p class="review-text">
+        &ldquo;Red Signal is psychological sci-fi at its most gripping &mdash; a relentless thriller about identity,
+        manipulation, and the cost of reclaiming your own mind.&rdquo;
+      </p>
+      <p class="review-attr">&mdash; Featured Review</p>
+    </div>
+  </div>
+</section>
+
+<hr class="divider" />
+
+<!-- FINAL CTA -->
+<div class="cta-section container reveal">
+  <p class="section-label">Begin the Signal</p>
+  <h2>Are your memories really yours?</h2>
+  <p>58 pages. Three formats. One question that will haunt you.</p>
+  <div class="cta-buttons">
+    <a data-gumroad-action="buy" class="btn-primary">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><line x1="3" y1="6" x2="21" y2="6"/><path d="M16 10a4 4 0 0 1-8 0"/></svg>
+      Get Red Signal &mdash; $3.99
+    </a>
+  </div>
+  <p style="margin-top:1.2rem;font-size:0.8rem;color:var(--muted);">
+    PDF &bull; ePub &bull; MOBI &bull; DRM-free &bull; Instant download
+  </p>
+</div>
+
+<footer>
+  <p>&copy; 2026 Red Signal. All rights reserved. &nbsp;&bull;&nbsp; Sold securely via Gumroad.</p>
+</footer>
+
+<script>
+  const reveals = document.querySelectorAll('.reveal');
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
+  }, { threshold: 0.12 });
+  reveals.forEach(el => io.observe(el));
+</script>
+</body>
+</html>
