@@ -1,0 +1,28 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 24 | Sun Sep 07 | 2026-09-07 | ARCHIVE C
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Sun Sep 07
+DAY: 24 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Slow push-in through a dust-choked secret archive: towering shelves of physical files and film canisters, beams of light cutting through floating dust, a lone figure silhouetted at a reading table. Cold ambient light, deep blacks, red emergency glow at the far edge, oppressive silence, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: soft dust settling, muffled footsteps on old metal, a distant heartbeat.
+
+--- CAPTION ---
+FB CAPTION:
+Archive C.
+
+No cameras. No servers. No network - just paper and film, locked away where no data can be traced.
+
+This is where the Council hides what the Order isn't meant to see.
+
+And it's where Lyra's file has been waiting for her.

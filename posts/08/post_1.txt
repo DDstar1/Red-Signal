@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 8 | Sat Aug 22 | 2026-08-22 | THE WORLD - COMMAND ROOM
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Sat Aug 22
+DAY: 8 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Wide establishing shot of an Order command room: brutalist industrial concrete and steel, banks of flickering monitors and terminals glowing blue-white, dim amber task lights, scattered charts, a central heavy desk, rust and wear on every surface. Cold functional lighting, faint red emergency pulses reflecting off steel. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/locations/order_command_room/loc_commandroom_empty.jpg
+
+--- CAPTION ---
+FB CAPTION:
+The Order command room.
+
+The warmest place in the base - and that's saying something.
+
+Every tactical decision, every interrogation, every secret starts here.
+
+Location card pinned.

@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 14 | Fri Aug 28 | 2026-08-28 | FLASHBACK - THE WHITE ROOM
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Fri Aug 28
+DAY: 14 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Flashback scene of younger Lyra Vex: a teenager around 15 years old, lean build, sharp angular face, short dark hair, pale skin, wearing a simple grey institutional garment, electrodes attached to her temples, strapped into the white conditioning chair. Sterile white room, impossibly bright clinical lighting, psychological horror aesthetic, film grain.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_youngerflashback.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Before she was Lyra, she was a subject.
+
+Age 15. Strapped to the chair. Electrodes at her temples.
+
+They didn't just train her. They erased her and rebuilt her.
+
+This is the truth buried under every memory she has.

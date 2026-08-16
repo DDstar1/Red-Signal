@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 29 | Fri Sep 12 | 2026-09-12 | TEASER #2 - LYRA
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Fri Sep 12
+DAY: 29 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Character teaser poster for Lyra Vex: close-up of her sharp angular face, half in deep shadow, half lit by pulsing red light, wide intense pupils, ash-rain streaks, short dark hair, worn grey tactical jacket collar. Desaturated grade with red accent, dramatic contrast, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+TEASER #2 POSTER
+
+'Her eyes looked wrong. Like someone else had borrowed her skin for a while.'
+
+Lyra Vex - the weapon who doesn't know it.
+
+RED SIGNAL. Full trailer this month.

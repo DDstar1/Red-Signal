@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 3 | Mon Aug 17 | 2026-08-17 | THE ALLY - JOSIE
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Mon Aug 17
+DAY: 3 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Medium shot of a young man in dark matte Order combat armor standing in a dim industrial corridor. He slowly lowers his standard-issue rifle, holding it low and non-threatening. His soft youthful face shows a cautious, curious expression as he watches something off-camera. Cold blue-grey task lighting, faint red emergency glow at the corridor edge, shallow depth of field, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: low ambient hum, muffled footsteps, the quiet clink of armor settling.
+
+--- REFERENCE IMAGE ---
+references/characters/josie_kael/josie_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+The soldier who broke protocol.
+
+Josie Kael lowers his weapon in a world where hesitation gets people killed.
+
+His first mistake might be the best thing that ever happened to Lyra.

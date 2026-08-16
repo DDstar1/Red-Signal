@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 25 | Mon Sep 08 | 2026-09-08 | THE COLLAPSE
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Mon Sep 08
+DAY: 25 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Close-up of Lyra Vex sitting against a wall in a dim archive room, shoulders folded inward, trembling hands covering her face, blood at her nose, short dark hair hanging forward, pale skin, wide haunted eyes above her fingers. Single harsh light from above, deep shadows, red pulse at frame edges, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Breaking is the first step of being free.
+
+Lyra was built to never feel this. The conditioning forbids it.
+
+But conditioning cracks - and this crack is where the real Lyra starts to come out.
+
+'You're more than it.'

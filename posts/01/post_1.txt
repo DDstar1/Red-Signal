@@ -1,0 +1,24 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 1 | Sat Aug 15 | 2026-08-15 | PROLOGUE & REVEAL
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Sat Aug 15
+DAY: 1 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Cinematic title card for 'RED SIGNAL'. Dark dystopian sci-fi thriller. A single pulsing red light source in a black void, thin strands of ash-rain falling through a single harsh beam, faint silhouette of a ruined city skyline in the deep background. Bold blocky typography reading 'RED SIGNAL'. Deep blacks, desaturated blue-grey grade with a red accent glow. Film grain, shallow depth of field. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- CAPTION ---
+FB CAPTION:
+A red signal in the dark.
+
+RED SIGNAL - a dystopian sci-fi thriller told in film clips. Characters, world, and scenes built for screen.
+
+Follow to see how it unfolds.

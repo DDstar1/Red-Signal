@@ -1,0 +1,31 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 31 | Sun Sep 14 | 2026-09-14 | FINALE & WHAT'S NEXT
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Sun Sep 14
+DAY: 31 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Cinematic finale poster: Lyra Vex standing in the rain-soaked ruins, small against the ruined skyline, a single red pulsing light on the horizon, ash-rain falling, worn grey jacket, resolute silhouette. Desaturated grade with red accent, film grain, high contrast. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+RED SIGNAL - MONTH ONE COMPLETE
+
+From a manuscript to a world. From a page to a pulsing red light.
+
+Thank you for being here.
+
+Act 2 begins soon - tell us what you want to see next.
+
+The signal stays on.

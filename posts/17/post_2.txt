@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 17 | Mon Aug 31 | 2026-08-31 | SCENE: THE JACKET
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Mon Aug 31
+DAY: 17 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Close-up shot of Lyra Vex wearing Josie Kael's coat over her shoulders in a dim Order dorm room, her pale face lit by warm amber task light, intense eyes soft and vulnerable, the first genuine warmth crossing her usually composed expression. Cold blue-grey shadow on the other side of her face, shallow depth of field, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+The first crack in the armor.
+
+Lyra, for one moment, isn't a weapon. She's a person who's cold, being given warmth.
+
+It won't last. The programming doesn't sleep.
+
+But for one clip, she's just her.

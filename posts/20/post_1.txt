@@ -1,0 +1,31 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 20 | Thu Sep 03 | 2026-09-03 | SCENE: COMBAT FLOW
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Thu Sep 03
+DAY: 20 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Wide handheld shot of Lyra Vex in combat flow state during a training scenario, moving like a shadow between obstacles, smooth fast automatic precision, no hesitation, no wasted motion, combat vest over dark base layer. Harsh fluorescents, dust motes in the air, faint red emergency glow, dramatic camera energy, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: sharp impacts, quick sharp breaths, the hum of the training deck.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+This isn't training. This is unveiling.
+
+Lyra fights like a machine that was built - because she was.
+
+No one in the Order moves like this without a decade of combat.
+
+And she's a 'refugee.'

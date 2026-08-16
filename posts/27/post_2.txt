@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 27 | Wed Sep 10 | 2026-09-10 | THE COUNCIL - GOLD & BLUE
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Wed Sep 10
+DAY: 27 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Front-facing character portrait of Envoy Cassel Rynn: a high-ranking Council official in a formal Council-blue vest with gold insignia, pristine immaculate appearance, cold authoritative expression, standing in a gold-tinted steel corridor with polished surfaces. Sterile, wealthy, untouchable. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/council/RYNN_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Meet the voice of the Council.
+
+Polished. Immaculate. Always on camera, never at risk.
+
+The face that tells the Order what to do - and tells the public what to believe.
+
+He has never once been wrong. Officially.

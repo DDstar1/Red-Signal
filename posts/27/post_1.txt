@@ -1,0 +1,26 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 27 | Wed Sep 10 | 2026-09-10 | THE COUNCIL - GOLD & BLUE
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Wed Sep 10
+DAY: 27 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Wide establishing shot of a Council propaganda studio: gold-tinted circuit steel, polished cold wealth, formal Council-blue vests and insignia, pristine immaculate surfaces, a sleek podium under harsh broadcast lights, sterile perfection with no dust, no wear. Cold authoritative atmosphere, film grain, desaturated grade with gold accents. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- CAPTION ---
+FB CAPTION:
+The Council doesn't fight wars. It films them.
+
+Gold-tinted steel. Perfect blue vests. Broadcast lights that never flicker.
+
+While the Order bleeds in concrete ruins, the Council sells the story in pristine studios.
+
+Nothing about this room is dirty. That's the point.

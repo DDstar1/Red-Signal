@@ -1,0 +1,28 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 21 | Thu Sep 04 | 2026-09-04 | AUDIO & SOUND DESIGN
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Thu Sep 04
+DAY: 21 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Close-up shot in a dark Order corridor, no characters - just the environment: a pulsing red emergency light casting long shadows, thin smoke drifting through the beam, cold concrete and steel. Slow push-in through the haze, deep blacks, desaturated grade with red accent. Locked-off surveillance feel, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: layered design - low electrical hum, distant klaxon, the faint rhythmic thump of a heartbeat, and the whisper of ash-like rain.
+
+--- CAPTION ---
+FB CAPTION:
+Close your eyes.
+
+Hear it? The hum. The pulse. The rain that falls like ash.
+
+Sound is half the film. Every clip we generate carries native stereo audio - hums, footsteps, heartbeats, whispers.
+
+This is what the base sounds like when nobody's talking.

@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 12 | Wed Aug 26 | 2026-08-26 | LYRA - TRAINING DECK
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Wed Aug 26
+DAY: 12 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Medium shot of Lyra Vex in a borrowed combat vest over a dark base layer, standing at rest on an industrial training deck after an exercise, slight sheen of exertion on pale skin, short dark hair, calm composed expression. Harsh overhead fluorescents casting long shadows, faint red emergency light, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_fullbody.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Nobody taught her that.
+
+That's the problem.
+
+Lyra fights like she's been conditioned her whole life - because she has been. She just can't remember.
+
+Whoever's watching the cameras is smiling.

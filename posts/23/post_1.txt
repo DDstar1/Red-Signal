@@ -1,0 +1,31 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 23 | Sat Sep 06 | 2026-09-06 | TOMAS - THE INVESTIGATION
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Sat Sep 06
+DAY: 23 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Medium shot of Tomas Vale, a tired disheveled analyst in his early thirties, hunched over a bank of monitors in the control hub, rapid typing, dark messy hair, observant tired eyes reflecting blue-white screens, data slates scattered around, exhausted but driven. Cold monitor glow, dim room, faint red alert flicker on one screen, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: rapid keystrokes, soft data chimes, low hum of machines.
+
+--- REFERENCE IMAGE ---
+references/characters/tomas_vale/TOMAS_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+He sees it. Finally.
+
+The biometric anomaly. The too-clean readings. The calibration that matches a Council file nobody was supposed to open.
+
+Tomas stops typing.
+
+He knows what Lyra is now. The question is what he does with the knowledge.

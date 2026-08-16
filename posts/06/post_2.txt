@@ -1,0 +1,31 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 6 | Thu Aug 20 | 2026-08-20 | THE AUTHORITY - COMMANDER KAEL
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Thu Aug 20
+DAY: 6 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Medium shot of a large imposing man in his 50s in a formal dark Order commander's uniform, seated at a heavy desk in a dim command room. He leans forward slowly, cold assessing eyes fixed on someone off-camera, chin lowered, face immaculate and rigid. Warm amber task lighting in the room, faint red alert glow on one wall, slow push-in on his face, shallow depth of field, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: low rumble, quiet data-terminal chimes, a single heavy breath.
+
+--- REFERENCE IMAGE ---
+references/characters/ivar_kael/Ivar_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+He's assessing her.
+
+Lyra sits perfectly still under Commander Kael's gaze - a trained operative being inspected by a predator.
+
+Neither blinks.
+
+Somewhere behind them, the red signal pulses.

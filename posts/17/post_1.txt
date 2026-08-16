@@ -1,0 +1,31 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 17 | Mon Aug 31 | 2026-08-31 | SCENE: THE JACKET
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Mon Aug 31
+DAY: 17 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Cinematic close two-shot in a cold Order dorm room. Josie Kael, a young soldier in a coat, wraps his jacket around Lyra Vex's shoulders, a young woman in a worn dark tactical jacket, her pale face softening, intense wide eyes meeting his warm gaze. Cold blue-grey light from a small window, warm amber task lamp, shallow depth of field, slow push-in, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: soft ambient room tone, fabric rustling, a quiet shared breath.
+
+--- REFERENCE IMAGE ---
+references/characters/josie_kael/josie_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+He gave her his jacket.
+
+Not a tactical move. Not an Order protocol.
+
+Just a person who was cold, helping another person who was cold.
+
+She doesn't know what to do with kindness. She's never been offered it before.

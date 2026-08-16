@@ -1,0 +1,21 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 15 | Sat Aug 29 | 2026-08-29 | MID-MONTH RECAP & BTS
+POST 3
+============================================================
+
+--- POST SETUP ---
+DATE: Sat Aug 29
+DAY: 15 of 31
+
+--- MEDIA ---
+TYPE: Text-only post (no media needed)
+
+
+--- CAPTION ---
+FB CAPTION:
+Behind the scenes: Character consistency.
+
+Text-only prompts drift - the model reinvents the face every time. The fix? Lock a master portrait first, then anchor every scene clip to that image.
+
+That's how Lyra stays Lyra across every shot. More BTS coming this month.

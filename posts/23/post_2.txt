@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 23 | Sat Sep 06 | 2026-09-06 | TOMAS - THE INVESTIGATION
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Sat Sep 06
+DAY: 23 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Close-up of Tomas Vale's face lit by monitor glow in the control hub: dark messy hair, deeply tired but intensely observant eyes reflecting blue-white screens, grim realization darkening his expression, thin technician's coat collar. Cold screen light, dim background, faint red alert flicker, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/tomas_vale/TOMAS_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+'Pixels don't twitch when they lie.'
+
+But Lyra's files twitch everywhere.
+
+Too clean. Too calibrated. Too perfect to be real.
+
+Tomas found the one thing nobody was supposed to find: proof of what she is.

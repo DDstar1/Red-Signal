@@ -1,0 +1,31 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 29 | Fri Sep 12 | 2026-09-12 | TEASER #2 - LYRA
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Fri Sep 12
+DAY: 29 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Teaser trailer sequence, 30 seconds, Lyra montage: rapid cuts across Lyra Vex across states - eerily calm in the command room, moving like a shadow in combat, eyes unfocused in a night corridor, blood at her nose with a green glow in her hand, finally a tear breaking the programming. Hard cuts building to her face filling the frame, red light as the connective thread, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: heartbeat pulse building, distorted whispers, a rising electronic swell, silence before the final reveal.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+TEASER #2 - WHO IS LYRA VEX?
+
+'She wasn't afraid of the Council anymore. She wasn't theirs.'
+
+A weapon. A victim. A survivor. All three, in one face.
+
+RED SIGNAL. Trailer coming.

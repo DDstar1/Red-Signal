@@ -1,0 +1,27 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 21 | Thu Sep 04 | 2026-09-04 | AUDIO & SOUND DESIGN
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Thu Sep 04
+DAY: 21 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Close-up of a technician's console in the Order command room: glowing blue-white monitors, a red alert indicator pulsing, tangled cables, coffee-stained keypad, a worn hand hovering over a key. Shallow depth of field, cold monitor glow, warm task lamp edge, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/locations/order_command_room/loc_commandroom_empty.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Sound of the series: the red alert pulse is the heartbeat of danger.
+
+Every lockdown, every reveal, every nightmare is scored with that pulse.
+
+Notice it in the next clip you watch. It's never random.

@@ -1,0 +1,31 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 13 | Thu Aug 27 | 2026-08-27 | LYRA - SLEEPWALKING NIGHTMARE
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Thu Aug 27
+DAY: 13 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Night-vision style shot of Lyra Vex sleepwalking barefoot in simple dark sleepwear through a dim Order corridor, eyes wide and unfocused, cold sweat on pale skin, movements slow and automatic like a puppet on strings. High contrast, deep blacks, single harsh light source, red pulsing at the edges of frame, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: low distorted whisper, soft barefoot steps, faint static heartbeat.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+She doesn't know she's doing it.
+
+Lyra sleepwalks through the base in the middle of the night - barefoot, silent, eyes open but not seeing.
+
+And every time she stops, she's standing in front of the surveillance wall.
+
+Looking at herself like a stranger.

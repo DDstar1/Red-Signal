@@ -1,0 +1,26 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 11 | Tue Aug 25 | 2026-08-25 | THE SIGNAL - RED LIGHT
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Tue Aug 25
+DAY: 11 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Close-up of a pulsing red emergency light on a wall in a dark industrial corridor, light strobing rhythmically and ominously across the concrete, long dramatic shadows, faint smoke in the air, deep blacks, desaturated grade with the red glow as the dominant color source. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- CAPTION ---
+FB CAPTION:
+The signal.
+
+Red pulse. Steady rhythm. A heartbeat made of light.
+
+Every time it fires, something changes. Lockdowns. Secrets. The end of a plan.
+
+It's the color of this story.

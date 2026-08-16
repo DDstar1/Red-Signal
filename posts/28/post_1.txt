@@ -1,0 +1,33 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 28 | Thu Sep 11 | 2026-09-11 | TEASER #1 - REVEAL
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Thu Sep 11
+DAY: 28 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Teaser trailer sequence, 15 seconds: rapid cuts across RED SIGNAL iconography - pulsing red emergency light strobing on concrete, the white conditioning chair in sterile light, Lyra's wide-pupil eyes in the dark, ash-rain falling through a red beam, Josie lowering his rifle, the green chip glowing in a trembling hand. Hard cuts, no dialogue, driving tension, red light as the connective thread, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: layered - heartbeat pulse, klaxons, a rising electronic swell, sudden silence.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+TEASER #1
+
+A signal in the dark.
+
+Something was built. Something is waking up.
+
+RED SIGNAL - a sci-fi thriller, one clip at a time.
+
+Full trailer drops at the end of the month.

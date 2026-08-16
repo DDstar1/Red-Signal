@@ -1,0 +1,27 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 4 | Tue Aug 18 | 2026-08-18 | THE INVESTIGATOR - TOMAS
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Tue Aug 18
+DAY: 4 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Front-facing character portrait of Tomas Vale: a man in his early thirties, average lean build, clean-shaven face with a disheveled unkempt look, dark messy hair, observant tired eyes that read people constantly, wearing a thin dark technician's coat with one hand tucked in a pocket, casual half-alert posture. Neutral studio background, even soft lighting, wry knowing half-smile. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/tomas_vale/TOMAS_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Meet Tomas Vale.
+
+Diagnostics analyst. Insomniac. The only person in the base who notices the anomalies everyone else ignores.
+
+'Pixels don't twitch when they lie.'

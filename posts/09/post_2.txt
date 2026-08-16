@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 9 | Sun Aug 23 | 2026-08-23 | THE WORLD - WHITE CHAMBER
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Sun Aug 23
+DAY: 9 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Slow push-in on a white reclined conditioning chair in a sterile white chamber, arm and foot restraints visible, cranial interface ports arching above the headrest. The camera moves in slowly as cold even light floods the space, no shadows, clinical and unsettling. Subtle red glow bleeds in at the very edge of frame, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: high faint hum, distant mechanical whine, an almost inaudible heartbeat.
+
+--- REFERENCE IMAGE ---
+references/locations/white_chamber/loc_whitechamber_empty.jpg
+
+--- CAPTION ---
+FB CAPTION:
+The chair remembers what she can't.
+
+Every restraint is a story. Every port is a lie.
+
+This is where Lyra was made. And one day, this is where she'll have to come back.

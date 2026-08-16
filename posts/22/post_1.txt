@@ -1,0 +1,31 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 22 | Fri Sep 05 | 2026-09-05 | THE CHIP ACTIVATION
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Fri Sep 05
+DAY: 22 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Close-up shot of Lyra Vex in a dim archive corridor, small data chip glowing green in her trembling hand, blood trickling from her nose, vision tunneling as her knees buckle, pale skin, wide pupils. High contrast, deep blacks, the green glow illuminating her face, red pulse at the frame edges, psychological horror, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: rising electronic hum, distorted memory whispers, a sharp thud as her knees hit the floor.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+The failsafe.
+
+One chip. One green glow. One trigger she can't control.
+
+The moment Lyra's programming activates, the blood comes from her nose and the world starts to tunnel.
+
+She's collapsing - and she doesn't know why.

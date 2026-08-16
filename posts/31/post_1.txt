@@ -1,0 +1,33 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 31 | Sun Sep 14 | 2026-09-14 | FINALE & WHAT'S NEXT
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Sun Sep 14
+DAY: 31 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Epilogue clip: slow shot of Lyra Vex standing in the ash-rain ruins, back to camera, worn grey jacket, short dark hair, turning her head slightly as a faint red light pulses on the horizon behind her. The camera holds on the silhouette as rain falls, then slow fade to the pulsing red signal. Desaturated grade with red accent, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: wind, ash-rain, a soft heartbeat, and a single quiet line: 'I don't know where I'm from anymore.'
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+EPILOGUE
+
+'I don't know where I'm from anymore.'
+
+One month. Thirty-one posts. A story told in clips.
+
+This isn't the end. It's the signal that Act 2 is coming.
+
+Thank you for watching RED SIGNAL.

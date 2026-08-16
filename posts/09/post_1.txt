@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 9 | Sun Aug 23 | 2026-08-23 | THE WORLD - WHITE CHAMBER
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Sun Aug 23
+DAY: 9 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Wide establishing shot of an impossibly bright sterile white conditioning chamber: cold white walls, clinical machinery, a single white reclined chair with arm and foot restraints in the center, cranial interface ports arching above the headrest. Cold even lighting with no shadows, unsettling perfection, psychological horror aesthetic. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/locations/white_chamber/loc_whitechamber_empty.jpg
+
+--- CAPTION ---
+FB CAPTION:
+The white chamber.
+
+Impossibly clean. Impossibly bright. No shadows anywhere.
+
+Lyra has been here before.
+
+She doesn't remember.

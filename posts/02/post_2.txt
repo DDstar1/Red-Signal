@@ -1,0 +1,27 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 2 | Sun Aug 16 | 2026-08-16 | THE PROTAGONIST - LYRA
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Sun Aug 16
+DAY: 2 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Full-body character reference of Lyra Vex standing in a neutral pose: a young woman in her mid-20s, lean athletic build, sharp angular face, short dark hair, pale skin, wearing a worn dark grey tactical jacket over a dark shirt, dark combat pants, heavy-duty muddy boots. Neutral studio background, full-length framing, direct camera view. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_fullbody.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Light on gear. Heavy on instinct.
+
+Lyra travels light - a runner, not a tank. One microdrive hidden under her collar is the most dangerous thing she carries.
+
+She doesn't know what it contains. Yet.

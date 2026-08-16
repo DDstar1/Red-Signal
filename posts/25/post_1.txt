@@ -1,0 +1,31 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 25 | Mon Sep 08 | 2026-09-08 | THE COLLAPSE
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Mon Sep 08
+DAY: 25 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Close-up shot of Lyra Vex in total collapse: shoulders folding inward, hands trembling, blood at her nose, knees buckling as she sinks against a wall in a dim archive room. Vulnerability breaking through the programming, pale skin, wide unfocused eyes. Deep blacks, harsh single light, red pulse at frame edges, psychological horror, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: ragged breathing, a muffled sob fought back, the low hum of the archive.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+The weapon breaks.
+
+Lyra has never flinched. Never doubted. Never cried.
+
+Now she's on the floor, hands shaking, nose bleeding, the truth finally louder than the programming.
+
+This is the moment she stops being their weapon.

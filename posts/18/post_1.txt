@@ -1,0 +1,28 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 18 | Tue Sep 01 | 2026-09-01 | SCENE: RED ALERT LOCKDOWN
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Tue Sep 01
+DAY: 18 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Handheld shot inside an Order base corridor as a red alert lockdown begins: pulsing red emergency lights strobing across concrete walls, soldiers in matte black armor moving in formation, metallic doors slamming shut one by one, alarm klaxons. Frantic energy, dramatic red light dominating the desaturated frame, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: blaring klaxons, heavy boot steps, slamming metal doors, distant shouting.
+
+--- CAPTION ---
+FB CAPTION:
+Lockdown.
+
+Red pulse. Klaxons. Every door sealing shut.
+
+Someone triggered the alert - and everyone in the base is about to find out why.
+
+Splinter Protocol is now active.

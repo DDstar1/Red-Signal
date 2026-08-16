@@ -1,0 +1,27 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 2 | Sun Aug 16 | 2026-08-16 | THE PROTAGONIST - LYRA
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Sun Aug 16
+DAY: 2 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Front-facing character portrait of Lyra Vex: a young woman in her mid-20s, lean athletic build, sharp angular face with strong jawline, intense eyes with wide pupils, short dark hair cropped practical and slightly messy, pale skin, wearing a worn dark grey tactical jacket over a dark shirt. Neutral studio background, even soft lighting, direct eye contact with camera, calm composed expression. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Meet Lyra Vex.
+
+A trained operative. A flawless soldier. And someone else's weapon - she just doesn't know it yet.
+
+'You don't flinch. You don't doubt. That's not instinct. That's control.'

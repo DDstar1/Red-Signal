@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 5 | Wed Aug 19 | 2026-08-19 | THE MENACE - WREN
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Wed Aug 19
+DAY: 5 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Front-facing character portrait of Wren Avo: a tall lean woman with a hard-set face and tight jaw, dark hair pulled back, wearing black Order combat armor, visor raised to reveal her sharp assessing eyes. Neutral studio background, even soft lighting, direct eye contact with camera, guarded suspicious expression. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/wren_avo/Wren_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Meet Wren Avo.
+
+Every base has that one soldier who sees threats everywhere.
+
+She's looking at Lyra.
+
+She's right to be.

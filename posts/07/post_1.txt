@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 7 | Fri Aug 21 | 2026-08-21 | THE SHADOWS - DRAY, QUILL & THE COUNCIL
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Fri Aug 21
+DAY: 7 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Front-facing character portrait of Sayen Dray: a man in his mid-to-late 30s, lean wiry build, nondescript angular face with a faint knowing smile, short dark hair, cold calculating dark eyes, wearing a dark Order tactical uniform. Neutral studio background, even soft lighting, unreadable expression. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/sayen_dray/SAREN_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Meet Sayen Dray.
+
+Polite. Efficient. Always smiling, never warm.
+
+Tomas can't find a single anomalous byte in his records.
+
+That's the first red flag.

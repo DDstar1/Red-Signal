@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 30 | Sat Sep 13 | 2026-09-13 | FULL TRAILER
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Sat Sep 13
+DAY: 30 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Full trailer poster for RED SIGNAL: Lyra Vex front and center, sharp angular face half in red light half in shadow, ash-rain falling, behind her the white chair and the ruined city silhouettes, bold 'RED SIGNAL' title. Desaturated with red accent, high contrast, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+THE TRAILER IS HERE.
+
+One month of clips. One story: a weapon learning she was never supposed to think for herself.
+
+RED SIGNAL - watch the full trailer now.
+
+Which character are you most invested in? Comment below.

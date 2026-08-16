@@ -1,0 +1,25 @@
+Gumroad Links = https://destinymend.gumroad.com/l/red-signal-the-illusion-of-truth
+
+
+
+HF_TOKEN = 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
+
+clip_l.safetensors
+t5xxl_fp16.safetensors
+flux_vae.safetensors
+ae.safetensors
+
+
+# find the running ComfyUI process
+ps aux | grep main.py
+
+kill <PID>
+
+
+# create a new named tmux session
+tmux new -s comfyui
+
+tmux attach -t comfyui
+
+# inside the tmux session, start ComfyUI
+cd /workspace/runpod-slim/ComfyUI && .venv-cu128/bin/python main.py --listen 0.0.0.0 --port 8188 --enable-cors-header

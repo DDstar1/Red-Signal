@@ -1,0 +1,26 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 24 | Sun Sep 07 | 2026-09-07 | ARCHIVE C
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Sun Sep 07
+DAY: 24 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Wide shot of Archive C: towering dust-choked shelves of physical files and film canisters in a vast concrete vault, shafts of cold light cutting through floating dust, red emergency glow faint at the far edge. Oppressive, ancient, secret atmosphere, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- CAPTION ---
+FB CAPTION:
+Every secret has a room.
+
+This one has Lyra's name on it.
+
+Physical records. No network trail. The Council's deepest files - including the one that says she was never a rebel.
+
+Archive C is about to open.

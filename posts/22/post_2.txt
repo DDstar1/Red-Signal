@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 22 | Fri Sep 05 | 2026-09-05 | THE CHIP ACTIVATION
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Fri Sep 05
+DAY: 22 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Extreme close-up of a small data chip glowing green in Lyra Vex's trembling hand, blood trickling from her nose in the dark background, pale skin, short dark hair, green light illuminating her sharp features, deep blacks, red pulse at frame edges, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+This chip is the whole truth.
+
+Inside it: Project Echo. The Council's program. Everything Lyra was built for.
+
+She found it. She touched it. And now the failsafe has fired.
+
+The green glow is the signal that her cover is gone.

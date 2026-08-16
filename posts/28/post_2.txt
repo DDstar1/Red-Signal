@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 28 | Thu Sep 11 | 2026-09-11 | TEASER #1 - REVEAL
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Thu Sep 11
+DAY: 28 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Cinematic teaser poster for RED SIGNAL: Lyra Vex's sharp angular face in deep shadow, lit from one side by a pulsing red light, ash-rain streaks crossing the frame, faint silhouette of a ruined city behind her, bold title 'RED SIGNAL' at the bottom. Desaturated grade with red accent, film grain, dramatic contrast. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+TEASER #1 POSTER
+
+'You don't flinch. You don't doubt. That's not instinct. That's control.'
+
+RED SIGNAL. Coming this month.
+
+Save this post. The full trailer is on the way.

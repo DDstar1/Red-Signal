@@ -1,0 +1,27 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 26 | Tue Sep 09 | 2026-09-09 | THE TEAM - TWO-SHOTS
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Tue Sep 09
+DAY: 26 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Cinematic two-shot of Lyra Vex and Tomas Vale in a dim control hub: Lyra, a young woman in a worn dark grey tactical jacket, sits composed but guarded, not meeting his eyes; Tomas, a tired analyst in a thin dark technician's coat, observes her from a slight distance, arms folded, holding a data slate. Cold monitor glow, faint red accent, shallow depth of field, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/tomas_vale/TOMAS_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+He studies her. She feels it.
+
+Tomas reads people the way he reads data - in patterns, in tells, in what they don't say.
+
+Lyra knows she's being watched. She just doesn't know he's the one person who might save her.

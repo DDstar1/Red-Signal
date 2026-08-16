@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 19 | Wed Sep 02 | 2026-09-02 | SCENE: INTERROGATION
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Wed Sep 02
+DAY: 19 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Close-up of Lyra Vex in an interrogation room, single harsh overhead lamp lighting her sharp angular face, intense eyes with wide pupils staring directly at camera, eerily calm and composed, pale skin, short dark hair. Deep blacks, long shadows, faint red glow at the frame edges, psychological thriller aesthetic, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Look at the eyes.
+
+No fear. No flinch. Just a flat, unnerving calm.
+
+That's not bravery. That's programming.
+
+And the Commander is starting to realize it.

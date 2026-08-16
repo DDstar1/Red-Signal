@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 8 | Sat Aug 22 | 2026-08-22 | THE WORLD - COMMAND ROOM
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Sat Aug 22
+DAY: 8 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Slow dolly tracking through an Order command room: industrial concrete and steel, banks of monitors flickering blue-white, dim amber task lights, charts pinned to walls, a heavy central desk. The camera glides deliberately through the space, red emergency lights pulsing faintly on the ceiling. Deep focus, atmospheric haze, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: low hum of machines, faint data chimes, distant footsteps.
+
+--- REFERENCE IMAGE ---
+references/locations/order_command_room/loc_commandroom_empty.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Welcome to the nerve center.
+
+Cold steel, warm lights, and one chair at the center of it all.
+
+Every scene of RED SIGNAL starts here. This is the room where Lyra's story begins to unravel.

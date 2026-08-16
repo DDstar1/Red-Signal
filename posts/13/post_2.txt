@@ -1,0 +1,27 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 13 | Thu Aug 27 | 2026-08-27 | LYRA - SLEEPWALKING NIGHTMARE
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Thu Aug 27
+DAY: 13 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Close-up of Lyra Vex's face at night: eyes wide and unfocused, glassy, looking through the camera rather than at it, cold sweat on pale skin, short dark hair slightly damp. Deep blacks, single harsh cold light, faint red glow at the frame edges, psychological horror aesthetic, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+'Her eyes looked wrong. Like someone else had borrowed her skin for a while.'
+
+When the programming glitches, Lyra isn't Lyra anymore.
+
+And she can't control who takes over.

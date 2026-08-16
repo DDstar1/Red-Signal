@@ -1,0 +1,31 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 12 | Wed Aug 26 | 2026-08-26 | LYRA - TRAINING DECK
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Wed Aug 26
+DAY: 12 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Wide shot of Lyra Vex moving through an obstacle course on a training deck, wearing a borrowed combat vest over a dark base layer. She moves like a shadow - smooth, fast, automatic, no hesitation, no wasted motion. Harsh overhead fluorescents, long shadows, faint red emergency glow, handheld camera energy, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: sharp footfalls, quick breaths, muffled impact sounds.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Watch how she moves.
+
+Smooth. Fast. Automatic. No hesitation, no wasted motion - nobody trains a refugee to fight like this.
+
+Everyone watches in silence.
+
+No one wants to say what they're all thinking.

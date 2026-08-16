@@ -1,0 +1,27 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 16 | Sun Aug 30 | 2026-08-30 | SCENE: FIRST ENCOUNTER
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Sun Aug 30
+DAY: 16 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Cinematic two-shot of Lyra Vex and Josie Kael standing close in a dim Order corridor: she in a worn dark grey tactical jacket, guarded; he in dark matte Order armor, open and protective, warm expressive eyes meeting her intense wide-pupil gaze. Warm amber light mixing with cold blue-grey, faint red accent, shallow depth of field, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/josie_kael/josie_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+He sees a person. Everyone else sees a prisoner.
+
+That single difference changes everything.
+
+Josie is the only one in this base who looks at Lyra without suspicion in his eyes.

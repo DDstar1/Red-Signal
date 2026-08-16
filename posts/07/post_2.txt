@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 7 | Fri Aug 21 | 2026-08-21 | THE SHADOWS - DRAY, QUILL & THE COUNCIL
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Fri Aug 21
+DAY: 7 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Front-facing character portrait of Dr. Malen Quill: a slate-grey uniformed Council physician, pristine immaculate appearance, thin clinical gloves, cold detached gaze, standing in an impossibly bright sterile white laboratory corridor, no shadows, clinical dread atmosphere. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/malen_quill/Malen_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Meet Dr. Malen Quill.
+
+Council physician. Impeccably clean. Never touches bare skin.
+
+She knows exactly what Lyra is.
+
+She just doesn't want anyone else to.

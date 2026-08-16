@@ -1,0 +1,33 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 26 | Tue Sep 09 | 2026-09-09 | THE TEAM - TWO-SHOTS
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Tue Sep 09
+DAY: 26 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Cinematic medium two-shot in an Order corridor: Wren Avo, a tall lean soldier in black armor with visor raised, confronts Lyra Vex, a composed young woman in a worn grey tactical jacket. Wren radiates suspicion with crossed arms, distance between them; Lyra stays perfectly still, unnervingly calm. Cold blue-grey light, faint red accent, shallow depth of field, tense atmosphere, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: low ambient hum, the faint creak of armor, a long held silence.
+
+--- REFERENCE IMAGE ---
+references/characters/wren_avo/Wren_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Two people, one corridor.
+
+Wren has been waiting to have this conversation since Lyra arrived.
+
+Lyra gives her nothing - not fear, not anger, just stillness.
+
+Which makes Wren trust her even less.
+
+And makes Lyra more interesting by the second.

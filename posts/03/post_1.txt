@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 3 | Mon Aug 17 | 2026-08-17 | THE ALLY - JOSIE
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Mon Aug 17
+DAY: 3 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Front-facing character portrait of Josie Kael: a young man in his early-to-mid 20s, fit soldier's build, soft youthful face with warm expressive eyes, short dark hair, fair skin, wearing dark matte Order combat armor with a half-retractable helmet clipped to his belt, face fully visible. Neutral studio background, even soft lighting, direct eye contact with camera, gentle half-smile. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/josie_kael/josie_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Meet Josie Kael.
+
+An Order soldier who lowers his rifle when he should aim it.
+
+'We're not going to kill you.'
+
+He means it. That's the problem.

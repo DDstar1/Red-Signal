@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 18 | Tue Sep 01 | 2026-09-01 | SCENE: RED ALERT LOCKDOWN
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Tue Sep 01
+DAY: 18 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Dramatic shot inside an Order command room during a red alert: pulsing red emergency light strobing across a wall of monitors and terminals, silhouettes of officers in dark uniforms watching the screens, cold blue-white monitor glow mixing with the red alarm wash. High contrast, tense atmosphere, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/locations/order_command_room/loc_commandroom_empty.jpg
+
+--- CAPTION ---
+FB CAPTION:
+When the red fires, everyone moves.
+
+Silhouettes at the surveillance wall. Fingers over trigger guards. Orders snapping across the comms.
+
+Splinter Protocol: locate the anomaly, contain it, and report to the Commander.
+
+The anomaly is Lyra.

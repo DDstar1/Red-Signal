@@ -1,0 +1,26 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 1 | Sat Aug 15 | 2026-08-15 | PROLOGUE & REVEAL
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Sat Aug 15
+DAY: 1 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Open on pure black. A single red emergency light pulses in the center, rhythmic and ominous. Thin ash-like rain drifts through the light beam. The camera slowly pushes in toward the pulsing light as faint static interference builds in the audio. Subtle film grain. Deep blacks, desaturated grade with red accent. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: deep pulsing sub-bass heartbeat, faint electrical hum, soft rain.
+
+--- CAPTION ---
+FB CAPTION:
+The heartbeat of danger.
+
+RED SIGNAL is coming. 31 days. Every character. Every scene.
+
+First reveal drops today.

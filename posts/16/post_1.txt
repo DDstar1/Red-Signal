@@ -1,0 +1,31 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 16 | Sun Aug 30 | 2026-08-30 | SCENE: FIRST ENCOUNTER
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Sun Aug 30
+DAY: 16 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Cinematic two-shot in a rain-soaked ruined street. Lyra Vex, a young woman in a worn dark grey tactical jacket, stands tense with a defensive stance. Josie Kael, a young soldier in dark matte Order armor, slowly lowers his rifle, holding it low and non-threatening, extending an open hand. Warm cautious expressions, cold ash-like rain falling between them, teal-grey grade with faint red emergency strobe, shallow depth of field, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: light rain, tense silence, a quiet exhale of relief.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+The first time they met.
+
+She was a 'rebel.' He was the enemy.
+
+Josie lowered his rifle. 'We're not going to kill you.'
+
+Neither of them knew they were both somebody's tool.

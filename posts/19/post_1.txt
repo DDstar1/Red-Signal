@@ -1,0 +1,31 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 19 | Wed Sep 02 | 2026-09-02 | SCENE: INTERROGATION
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Wed Sep 02
+DAY: 19 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Over-the-shoulder shot of Commander Ivar Kael, a large imposing man in his 50s in a dark commander's uniform, looming over a seated Lyra Vex in a stark interrogation room. He leans forward, cold assessing eyes fixed on her, while she sits perfectly composed, wide pupils, unnervingly calm. Single harsh interrogation lamp, long shadows, red pulse at the frame edge, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: low hum, a chair creak, the heavy silence between two people who don't blink.
+
+--- REFERENCE IMAGE ---
+references/characters/ivar_kael/Ivar_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+He asks. She doesn't break.
+
+Kael has interrogated rebels for thirty years. Lyra sits across from him and gives him nothing.
+
+Too calm. Too controlled. Too... trained.
+
+The question is no longer who she is. It's what made her.

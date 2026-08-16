@@ -1,0 +1,31 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 14 | Fri Aug 28 | 2026-08-28 | FLASHBACK - THE WHITE ROOM
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Fri Aug 28
+DAY: 14 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Slow push-in on younger Lyra Vex, a teenager around 15, strapped into a white conditioning chair in a sterile white chamber, electrodes at her temples, simple grey institutional garment, restrained arms and feet. Her face is terrified and blank by turns. Impossibly bright even lighting, no shadows, cold clinical horror, red pulse at the frame edge, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: high clinical whine, muffled voice counting down, a child's frightened breathing.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_youngerflashback.jpg
+
+--- CAPTION ---
+FB CAPTION:
+The conditioning.
+
+They count down. She blanks out. When she wakes, a piece of her is gone.
+
+Repeat until there's nothing left but the weapon.
+
+This is Project Echo. And Lyra was its success.

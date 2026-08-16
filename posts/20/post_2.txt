@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 20 | Thu Sep 03 | 2026-09-03 | SCENE: COMBAT FLOW
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Thu Sep 03
+DAY: 20 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Action medium shot of Lyra Vex in a borrowed combat vest, mid-movement on a training deck, body low and fluid, short dark hair in motion, pale face focused and flat, dust motes in harsh fluorescents. Faint red emergency glow in the background, dynamic frozen action, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_fullbody.jpg
+
+--- CAPTION ---
+FB CAPTION:
+The flow state.
+
+When Lyra fights, she isn't thinking. She's executing - automatic, perfect, inhuman.
+
+It's the clearest evidence of what she is.
+
+And it's why the Council built her in the first place.

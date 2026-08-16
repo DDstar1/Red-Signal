@@ -1,0 +1,35 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 30 | Sat Sep 13 | 2026-09-13 | FULL TRAILER
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Sat Sep 13
+DAY: 30 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Full trailer, 60-90 seconds: opens on the red pulsing light in black, then a montage across the month's scenes - Lyra walking through ash-rain, Josie lowering his rifle, the white chair in sterile light, Wren's visor snapping down, Kael's cold stare, Tomas hunched over monitors, the green chip glowing, Lyra collapsing, her eyes opening wide. Voiceover line near the end. Hard cuts, driving score, red light threading every shot, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: full trailer mix - heartbeat pulse, klaxons, electronic swell, a single voiceover: 'She was built to be a weapon. But weapons don't remember.'
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+FULL TRAILER
+
+'She was built to be a weapon. But weapons don't remember.'
+
+One month. Eight characters. A whole world built clip by clip.
+
+This is RED SIGNAL.
+
+Watch it. Share it. Tell us who you're rooting for.
+
+[Link/Play button]

@@ -1,0 +1,23 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 21 | Thu Sep 04 | 2026-09-04 | AUDIO & SOUND DESIGN
+POST 3
+============================================================
+
+--- POST SETUP ---
+DATE: Thu Sep 04
+DAY: 21 of 31
+
+--- MEDIA ---
+TYPE: Text-only post (no media needed)
+
+
+--- CAPTION ---
+FB CAPTION:
+Why audio matters in an AI film.
+
+MiniMax H3 generates video AND synchronized audio in a single pass - dialogue, sound effects, music, all together.
+
+So when you hear that heartbeat under the red light, it's not a music bed. It's part of the scene itself.
+
+Full sound design breakdown coming this month.

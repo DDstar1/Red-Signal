@@ -1,0 +1,29 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 6 | Thu Aug 20 | 2026-08-20 | THE AUTHORITY - COMMANDER KAEL
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Thu Aug 20
+DAY: 6 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Front-facing character portrait of Commander Ivar Kael: a large imposing man in his 50s, built like a wall with broad shoulders, weathered hard face, neatly-kept graying beard, cold assessing eyes, immaculately groomed, wearing a formal dark Order commander's uniform. Neutral studio background, even soft lighting, direct eye contact with camera, rigid authoritative expression. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/ivar_kael/Ivar_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+Meet Commander Ivar Kael.
+
+He commands the Order base. He's seen threats in every shadow for 30 years.
+
+And he's been ordered to host the Council's newest 'asset.'
+
+He already has questions. So does she.

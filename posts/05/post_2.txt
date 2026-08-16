@@ -1,0 +1,27 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 5 | Wed Aug 19 | 2026-08-19 | THE MENACE - WREN
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Wed Aug 19
+DAY: 5 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Front-facing character portrait of Wren Avo: a tall lean woman in black Order combat armor, opaque dark visor completely covering her face, no expression visible, faceless menace, dim industrial background with faint red emergency lighting. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/wren_avo/Wren_frontVisorOn.jpg
+
+--- CAPTION ---
+FB CAPTION:
+When the visor goes down, the warmth goes with it.
+
+Wren Avo sees everything through a cold dark screen.
+
+And she's been watching Lyra since day one.

@@ -1,0 +1,28 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 11 | Tue Aug 25 | 2026-08-25 | THE SIGNAL - RED LIGHT
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Tue Aug 25
+DAY: 11 of 31
+
+--- MEDIA ---
+TYPE: Video clip (8-15s)
+GEN TOOL: MiniMax H3 (image/video to video) via ComfyUI Cloud
+WORKFLOW: workflows/minimax_h3_i2v_lyra.json (or text-to-video variant)
+
+--- VIDEO PROMPT ---
+Locked-off static surveillance shot of a dark industrial corridor. A pulsing red emergency light strobing rhythmically on the ceiling casts long shadows along the walls. Faint smoke drifts through the beam. Deep blacks, desaturated grade, the red light dominating the frame. No movement - cold observation, film grain. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+Audio: rhythmic low pulse, electrical buzz, far-off klaxon.
+
+--- CAPTION ---
+FB CAPTION:
+Watch the rhythm.
+
+Red light pulses three times. Then a fourth. Then silence.
+
+That pattern means lockdown. And lockdown means someone found out the truth.
+
+The signal is the heartbeat of RED SIGNAL.

@@ -1,0 +1,24 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 10 | Mon Aug 24 | 2026-08-24 | THE WORLD - RUINS & RAIN
+POST 1
+============================================================
+
+--- POST SETUP ---
+DATE: Mon Aug 24
+DAY: 10 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Wide establishing shot of a rain-soaked ruined city: shattered concrete towers, rusted metal, cold scattered rain falling like ash, grey-brown haze, dying embers and distant fires in the background, teal-grey rain with red emergency strobes as the only color sources. Desolate, dangerous atmosphere. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- CAPTION ---
+FB CAPTION:
+The ruins.
+
+Rain that falls like ash. Fires that never die. No lights except the emergency strobes.
+
+This is what the world looks like when the Council decides you're no longer useful.

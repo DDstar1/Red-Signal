@@ -1,0 +1,27 @@
+============================================================
+RED SIGNAL - SOCIAL MEDIA POST
+Day 15 | Sat Aug 29 | 2026-08-29 | MID-MONTH RECAP & BTS
+POST 2
+============================================================
+
+--- POST SETUP ---
+DATE: Sat Aug 29
+DAY: 15 of 31
+
+--- MEDIA ---
+TYPE: Image
+GEN TOOL: Gemini (image generation)
+
+--- IMAGE PROMPT ---
+Behind the scenes composition showing the character reference pipeline for Lyra Vex: a front-facing portrait, a 3/4 profile turn, and a full-body standing shot arranged in a grid, each showing the same young woman in a worn dark grey tactical jacket. Neutral studio backgrounds, consistent lighting, film grain, desaturated grade with red accents. Cinematic sci-fi thriller, film grain, desaturated color grade with red accents, moody atmospheric lighting.
+
+--- REFERENCE IMAGE ---
+references/characters/lyra_vex/lyra_front.jpg
+
+--- CAPTION ---
+FB CAPTION:
+How we keep Lyra looking like Lyra.
+
+One portrait isn't enough - so we build a reference set: front, 3/4 profile, full body.
+
+Every clip in the film is anchored to these. Consistency isn't luck. It's a system.
